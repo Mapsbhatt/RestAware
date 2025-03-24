@@ -23,7 +23,7 @@ Primarily built using:
 
 ## 🛠️ Hardware Requirements
 
-- **Raspberry Pi 4 / 3B+**
+- **Raspberry Pi 4 / 3B/ Zero 2W+**
 - **Camera Module (OV5647 supported)**
 - **NeoPixel LED Ring (WS2812, 16 LEDs)**
 - **Breadboard & resistors (10k pull-ups for I2C)**
